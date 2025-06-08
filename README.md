@@ -25,10 +25,10 @@ Before you begin, ensure you have met the following requirements:
 
     ```bash
     # If this were a real repo, you would clone it like this:
-    # git clone <repository_url>
-    # cd <repository_name>
+    # git clone muna343/Salam-Micro_bank
+    # cd app
     ```
-    (Since you are building this interactively, you can skip the cloning step and proceed from your project directory.)
+
 
 2.  **Install dependencies:**
 
